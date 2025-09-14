@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# author luke
+# author logcoke
 
 import numpy as np
 from matplotlib import pyplot as plt
