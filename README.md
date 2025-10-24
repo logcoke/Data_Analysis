@@ -1,4 +1,4 @@
 # data_analysis
 
 #### 介绍
-此仓库介绍了数据分析的基本操作,包括Jupyter、matplotlib、numpy、pandas
+本仓库介绍数据分析的基础操作，涵盖 Jupyter、matplotlib、numpy 和 pandas 等常用工具。
