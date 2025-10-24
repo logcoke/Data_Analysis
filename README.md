@@ -10,9 +10,10 @@
 - **pandas**：用于结构化数据的分析和操作。
 
 ## 开始使用
+
 - 安装依赖：
   ```bash
-  pip install -r requirements.txt
+  pip  install jupyter matplotlib numpy pandas
   ```
 - 启动 Jupyter：
   ```bash
